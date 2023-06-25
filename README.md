@@ -16,7 +16,7 @@ Categorical features: Transactional data typically contain numerous categorical 
 
 Performance measures: Standard measures for classification systems, such as the mean misclassification error or the AUC ROC, are not well suited for detection problems due to the class imbalance issue, and the complex cost structure of fraud detection. A fraud detection system should be able to maximize the detection of fraudulent transactions while minimizing the number of incorrectly predicted frauds (false positives). It is often necessary to consider multiple measures to assess the overall performance of a fraud detection system. Despite its central role in the design of a fraud detection system, there is currently no consensus on which set of performance measures should be used.
 
-# Performance Metrics of ML MODEL
+# Performance Metrics 
 ![Result](Result.png)
 
 # PROPOSED SOLUTION - CODE
