@@ -6,7 +6,7 @@ Credit card fraud detection (CCFD) is like looking for needles in a haystack. It
 
 # Base Line ML Architecture
 
-
+![baseline_ML_workflow](baseline_ML_workflow.png)
 
 
 The Solution is split Across 4 Notebooks.
